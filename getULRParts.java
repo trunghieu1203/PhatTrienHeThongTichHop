@@ -9,7 +9,7 @@ public class getULRParts {
 		// TODO Auto-generated method stub
 		try
 		{
-		URL u = new URL("https://www.facebook.com");
+		URL u = new URL("https://github.com/trunghieu1203/PhatTrienHeThongTichHop/upload/lab3");
 		System.out.println("URL is "+u);
 		System.out.println("The protocol part is "+u.getProtocol());
 		System.out.println("The host part is "+u.getHost());
